@@ -1,4 +1,5 @@
-iTour: Tourist Monitoring and Mapping System
+iTour: Tourist Monitoring and Mapping System in Mabini Batangas
+BY: ANGELENE DE CHAVEZ,JELLA DALAWAMPU, TRISHA MAE TECSON
 
  Overview
 
